@@ -1,7 +1,9 @@
 ## Olá *eu sou o Orion*!! _Não é Órion nem Ôrion, é Orion_
-- 👨‍💻 Trabalhando como full stack
+- 👨‍💻 Atuo como full stack
 - 💻 Atualmente aprendendo Python , C++ , JavaScript
-- 🖥️ Programas/Websites com foco maior em eletrônica como Arduino, Raspberry Pi, CLP, etc
+- 🖥️ Foco maior em eletrônica como Arduino, Raspberry Pi, CLP, etc
+- 🤖 Gostaria de trabalhar com simulações, redes neurais, inteligência artificial, machine learning etc
+- 🎯 Objetivo é unificar Física e Tecnologia
 
 ##
 
