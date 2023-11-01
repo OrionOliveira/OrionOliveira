@@ -16,6 +16,10 @@
   <img align="center" alt="Orion-RaspberryPi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
   <img align="center" alt="Orion-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Orion-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
+  <img align="center" alt="Orion-Atom" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
+  <img align="center" alt="Orion-LabView" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" />
+          
+          
 </div>
         
 ##
