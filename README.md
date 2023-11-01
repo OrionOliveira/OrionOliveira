@@ -1,6 +1,6 @@
 ## Olá *eu sou o Orion*!! _Não é Órion nem Ôrion, é Orion_
 - 👨‍💻 Trabalhando como full stack
-- 💻 Atualmente aprendendo Python , C++ , JavaScript e Ladder
+- 💻 Atualmente aprendendo Python , C++ , JavaScript
 - 🖥️ Programas/Websites com foco maior em eletrônica como Arduino, Raspberry Pi, CLP, etc
 
 ##
